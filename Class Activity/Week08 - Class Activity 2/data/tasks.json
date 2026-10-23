@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "description": "Refactor Task Manager with OOP classes",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "description": "Write unit tests for Task and TaskManager",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "description": "งาน 1",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "description": "งาน 2",
+        "completed": false
+    }
+]
